@@ -1,0 +1,5 @@
+{
+  "name": "Interactive Box Grid",
+  "description": "A splendidly interactive website featuring a 3D box grid that reacts to mouse movement, inspired by Spline designs.",
+  "requestFramePermissions": []
+}
